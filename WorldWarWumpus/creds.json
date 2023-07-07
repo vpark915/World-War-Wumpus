@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "world-war-wumpus",
+  "private_key_id": "cd8d3aba6bc83b2b47efe18afa3dbd253eb9ad47",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjMxk560r536b1\nazvfE6hVl9lBhsAuEFr1aO4H8+wzETrerEkZWV60TzDtsu7GuDdsL18oR/DpMGak\nPY4Kbpd2gqVZhgk1E3oyNtVqtZfict9JMwp0SWiCukA5XuRGtwe74WeNZUhRfvTX\nM/ZC08pkr7LOzHTE1kwkdzc4PmgTEt1WZwYHZ1uUx60ELud3GTHW36AgexqyOSYm\neKIQStyNg+bulDmwU1+lZRaqI6C9CXcCHP81ortSPjFFU5zgDGat9RyNw48vGBxd\nuoqQIl+DGmS26jtKUU49YwWRBjNLEn4S1bc0J1n10yWmRSHNqwIUGbrflB4UjVrT\nJJ4+0rvxAgMBAAECggEAMQydi1PVb+4xLtew4eX1lOwThucqAW42+EU2LTu5hMur\n5trfCXhbx1N5wCckLqOVPLWsIt4kYOGEJ968PxRn/11atuJbCBG3izoBwJWddZjS\n1Rw7CyI4//lcbiG/+CTwdR5U0iFbr+q5Sai7XfBrhwFre03l1ncV4WvXM9dFzl1E\njHgtNfV8fdK4KpMzEfS2YCLL4i2U6n9Nuux8GP1YL39qAUWOERb1dVOFTo12Y76C\neX6drg65WlI5L7fvaF9rtxP36dsYvuNRt/aMQLk75P16B5I6dF/vcnU+iH9BHSxP\nmHI9j0sUvU5poAFQoWf5L3gYe+avzsZOzMOOLf0LtQKBgQDjPwz3xXwfPqpiQqYu\nqNwx24rH+ylRYa1o1sI6N1NF03H8X1c4opz5zAvFBuAJ2CTR1csh/D3z72tn521M\nq5NaKVEHiUDGEpYojMfmqYQHpFYZB24zhzseib2nO49hE+MCvxnN074NteA3rtSN\nYE48WAtJ/hoD6Cohsa1UTwFDGwKBgQC32XN7VrfGbKlLd40Knn2Qcb5093yBiB4l\niyhWExi3MfVoUlcs7DgZjbG3MdEqWrLJR0mEk5mUdqzXj2c9ri2WdfVkDdevwS1z\nn8OaBQm3MxX7HffCsE0TFyd+XJAu5BPnw2552zKelISPjTeD322pIrpxS/VXuIF1\noWB64EVh4wKBgQC5QIMf0ZxYFEvuAota6klnU6QVVwjd0RT+rGR19Pgrqi34IPkH\nsHjroo3NtscY/100umb4c5tFqt4SPDV8FTrwe1IVJKzrS+ehcvLbdUGuwSd3C/mo\nhAuL35n+JK3D4+RiLsuoYX9DygrZGesovWPKCbRaQ42Ntcvy39d/LVDIFQKBgCuG\n1Axzb3cO6tXvK/lDpL657zmKDnQsYdbJp3cZdlSJA2z7caA1HOMP5O9WYAsDBikZ\nM5Krz0STBEDUtsCnqCtjKgHSNSprNfOV851XbAFvmtilM69oRhcq+DK2f3xai0vn\nvRQkjUt2JhxGdspF75SHoFSKgz+NczkCR/FPf525AoGBAMaJXqxTFwhtuJRUWbre\nWkFM95f97PAFrgjqfyDwlR5kQySzh/7YWG0MdnrN7tks3HNqjjHZCQZQe/86p7mT\nkLb0buzecfDZG/yjAyLiEK1ZyF7oU7khItTnxWwgwBOt8GsyXic8Q8t72/H0ZKlt\nsyRz4ynuYbSd8U7jgkkhYIdD\n-----END PRIVATE KEY-----\n",
+  "client_email": "wump-506@world-war-wumpus.iam.gserviceaccount.com",
+  "client_id": "106136456137307759501",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wump-506%40world-war-wumpus.iam.gserviceaccount.com"
+}
